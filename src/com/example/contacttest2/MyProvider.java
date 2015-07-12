@@ -9,6 +9,9 @@ import android.net.Uri;
 
 public  class MyProvider extends ContentProvider{
 
+	//this is test
+	//this is test2
+	//this is test3 
 	public static final int TABLE1_DIR1 = 0;
 	public static final int TABLE1_ITEM = 1;
 	public static final int TABLE2_DIR = 2;
